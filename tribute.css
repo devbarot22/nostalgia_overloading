@@ -1,0 +1,31 @@
+body{
+    background-color: rgb(143, 183, 252);
+}
+#img1{
+    height: 400px;
+    width: 580px;
+    margin-left: 910px;
+    margin-bottom: -425px;
+    border-style: outset;
+}
+#sirsname{
+    background-color: rgb(0, 0, 0);
+    font-size: 40px;
+    color: white;
+}
+#info{
+    font-size: larger;
+    font-family:  'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Verdana, sans-serif;
+}
+#img2{
+    width: 497px;
+    height: 400px;
+}
+#img3{
+    width: 500px;
+    height: 400px;
+}
+#img4{
+    width: 497px;
+    height: 400px;
+}
